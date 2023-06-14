@@ -1,5 +1,6 @@
 # Numerical Analysis
 Numerical solution techniques on Matlab
+GENG-2200 - Numerical Analysis - Winter 2023
 # What I learned
 - Newton-Raphson
 - Runge-Kutta
